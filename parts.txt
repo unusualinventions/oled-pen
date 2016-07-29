@@ -5,7 +5,6 @@ Electronic parts:
 3. Transistor BSS138LT1G or any similar low power
 4. Capacitor polar 6.3V 15uF or any similar, it require for low energy batteries to support controller power stable. 
 When display is power on it may consume much power. You can skip this part if you store counter value in eeprom.
-
+5. Reed switch (any small)
+6. Battery
 Unfortunately the battery will end in 2 weeks. I recommend to use some small li-ion rechargable battery.
-
-
