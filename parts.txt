@@ -1,5 +1,3 @@
-Electronic parts: 
-
 1. OLEd display is 0.69 inch 96x16 QT1306P13 based on controller SSD1306
 2. Arduino pro mini (atmega328P) configured to work with internal oscillator 8MHz
 3. Transistor BSS138LT1G or any similar low power
@@ -8,3 +6,5 @@ When display is power on it may consume much power. You can skip this part if yo
 5. Reed switch (any small)
 6. Battery
 Unfortunately the battery will end in 2 weeks. I recommend to use some small li-ion rechargable battery.
+7. Magnets 4x2mm
+8. Ñlip
